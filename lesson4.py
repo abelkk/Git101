@@ -41,8 +41,10 @@ match (color):
         output = "red is the colors"
     case _: # depicts default
         output = "I dot know" 
+  
 
 
+#for loop
 
 print("=============================================")
 print(output)
